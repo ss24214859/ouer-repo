@@ -51,7 +51,7 @@ string MultipliactionTableInRang(int from,int to)
         cout<<Result<<"\t";
         
     }
-    cout<<endl;
+        cout<<endl;
     }
     return"\n";
 }
@@ -65,6 +65,6 @@ void printMultipliactionTableInRang(int from,int to)
 }
 int main()
 {
-printMultipliactionTableInRang(1,10);
+    printMultipliactionTableInRang(1,10);
 }
     
